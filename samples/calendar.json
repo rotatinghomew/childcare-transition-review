@@ -1,0 +1,686 @@
+[
+  {
+    "day": "2026-08-20",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-20",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-20",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-21",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-21",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-21",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-22",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-22",
+    "room": "乙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-22",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-23",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-23",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-23",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-24",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-24",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-24",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-25",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-25",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-25",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-26",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-26",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-26",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-27",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-27",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-27",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-28",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-28",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-28",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-29",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-29",
+    "room": "乙",
+    "open": false,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-29",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-08-30",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-30",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-30",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-31",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-31",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-08-31",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-01",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-01",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-01",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-02",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-02",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-02",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-03",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-03",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-03",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-04",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-04",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-04",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-05",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-05",
+    "room": "乙",
+    "open": false,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-05",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-06",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-06",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-06",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-07",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-07",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-07",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-08",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-08",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-08",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-09",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-09",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-09",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-10",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-10",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-10",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-11",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-11",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-11",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-12",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-12",
+    "room": "乙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-12",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-13",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-13",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-13",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-14",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-14",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-14",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-15",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-15",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-15",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-16",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-16",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-16",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-17",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-17",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-17",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-18",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-18",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-18",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-19",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-19",
+    "room": "乙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-19",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-20",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-20",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-20",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-21",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-21",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-21",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-22",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-22",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-22",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-23",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-23",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-23",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-24",
+    "room": "甲",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-24",
+    "room": "乙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-24",
+    "room": "丙",
+    "open": true,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-25",
+    "room": "甲",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-25",
+    "room": "乙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-25",
+    "room": "丙",
+    "open": false,
+    "session": "周一上午"
+  },
+  {
+    "day": "2026-09-26",
+    "room": "甲",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-26",
+    "room": "乙",
+    "open": true,
+    "session": "周三上午"
+  },
+  {
+    "day": "2026-09-26",
+    "room": "丙",
+    "open": true,
+    "session": "周三上午"
+  }
+]

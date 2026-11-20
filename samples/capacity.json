@@ -1,0 +1,44 @@
+[
+  {
+    "room": "甲",
+    "slot": "周一上午",
+    "teacher": "教师一",
+    "regular_seats": 4,
+    "trial_seats": 5
+  },
+  {
+    "room": "甲",
+    "slot": "周三上午",
+    "teacher": "教师一",
+    "regular_seats": 4,
+    "trial_seats": 5
+  },
+  {
+    "room": "乙",
+    "slot": "周一上午",
+    "teacher": "教师一",
+    "regular_seats": 3,
+    "trial_seats": 4
+  },
+  {
+    "room": "乙",
+    "slot": "周三上午",
+    "teacher": "教师一",
+    "regular_seats": 3,
+    "trial_seats": 4
+  },
+  {
+    "room": "丙",
+    "slot": "周一上午",
+    "teacher": "教师二",
+    "regular_seats": 2,
+    "trial_seats": 3
+  },
+  {
+    "room": "丙",
+    "slot": "周三上午",
+    "teacher": "教师二",
+    "regular_seats": 2,
+    "trial_seats": 3
+  }
+]

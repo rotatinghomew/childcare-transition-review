@@ -1,0 +1,21 @@
+{
+  "cutoffs": [
+    "2026-09-19",
+    "2026-09-26"
+  ],
+  "horizons_days": [
+    7,
+    14,
+    21
+  ],
+  "minimum_observations": 6,
+  "reserved": [
+    {
+      "child": "幼002",
+      "room": "丙",
+      "slot": "周三上午",
+      "from_date": "2026-09-19",
+      "weeks": 4
+    }
+  ]
+}
