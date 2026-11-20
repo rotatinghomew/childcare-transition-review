@@ -13,6 +13,8 @@ class SampleTests(unittest.TestCase):
         events = self.data['timeline']
         enrolled = [event for event in events if event['kind'] == '常规班实际接收']
         self.assertTrue(enrolled)
+        cutoff = self.data['review']['cutoffs'][0]
+        self.assertTrue(any(event['date'] <= cutoff < event['reported'] for event in enrolled))
         for event in enrolled:
             self.assertLess(event['date'], event['reported'])
             self.assertTrue(any(row['child'] == event['child'] and row['kind'] == '申请转班' and row['date'] < event['date'] for row in events))
